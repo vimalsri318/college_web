@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --body: Inter;
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-51xl: 70px;
+    --font-size-base: 16px;
+    --font-size-29xl: 48px;
+    --font-size-sm: 14px;
+    --font-size-xl: 20px;
+    --body-size: 18px;
+    --font-size-21xl: 40px;
+    --font-size-41xl: 60px;
+    --font-size-45xl: 64px;
+    --font-size-13xl: 32px;
+    /* Colors */
+    --color-black: #000;
+    --color-firebrick: #ba1717;
+    --color-lavenderblush: #fff1f1;
+    --color-orange: #ffba00;
+    --color-darkorange: #ef7d00;
+    --white: #fff;
+    --color-steelblue: #234e84;
+    --color-darkgray: #b2b2b2;
+    --black-50: rgba(0, 0, 0, 0.5);
+    --color-gainsboro-100: #d9d9d9;
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-lg: 18px;
+    --br-21xl: 40px;
+}
